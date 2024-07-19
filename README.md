@@ -1,27 +1,41 @@
 # 👋 Hola, soy Emiliano
 
-![GitHub followers](https://img.shields.io/github/followers/usuario?style=social)
-![GitHub User's stars](https://img.shields.io/github/stars/usuario?style=social)
+  Bienvenidos a mi perfil de GitHub...!!! Aquí encontrarán una colección de proyectos desarrollados principalmente durante mi formación, con un enfoque en tecnologías de back-end y front-end.
 
-Soy un desarrollador web fullstack con experiencia en Node.js, JavaScript, HTML, y CSS. Aquí en GitHub encontrarás mis proyectos de práctica y algunas contribuciones.
-
-- 🔭 Actualmente trabajando en [ProyectoX](https://github.com/usuario/proyectox)
-- 🌱 Aprendiendo React
+- 🔭 Actualmente trabajando en [ProyectoX](https://github.com/emiferreyra89/Challenge-Encriptador)
+- 🌱 Aprendiendo Java y Analisis de Datos
 - 💬 Pregúntame sobre Node.js y JavaScript
-- 📫 Cómo contactarme: [email@example.com](mailto:email@example.com)
-- ⚡ Fun fact: Me encanta el café ☕
+- 📫 Cómo contactarme: [email@example.com](ferreyra89@gmail.com)
 
-## 🚀 Proyectos Destacados
 
-### [ProyectoX](https://github.com/usuario/proyectox)
-Descripción breve del proyecto y lo que hace.
+## 💻 Stack Tecnológico y Experiencia
 
-![Demo](https://user-images.githubusercontent.com/usuario/demo.gif)
+  La mayoría de mis prácticas han sido realizadas utilizando las siguientes tecnologías y técnicas:
 
-### [ProyectoY](https://github.com/usuario/proyectoy)
-Descripción breve del proyecto y lo que hace.
+### Back-end:
 
-![Demo](https://user-images.githubusercontent.com/usuario/demo2.gif)
++ Node.js y Express: Desarrollo de aplicaciones web robustas y escalables.
++ JavaScript: Programación y lógica de negocios en el lado del servidor.
++ Operaciones CRUD: Implementación de operaciones de creación, lectura, actualización y eliminación.
++ Bases de datos relacionales: Manejo de MySQL para almacenamiento y recuperación de datos.
++ APIs REST: Creación y consumo de APIs RESTful para comunicación entre sistemas.
++ Autenticación y Autorización: Implementación de procesos de login y logout de usuarios.
++ Cookies y Middlewares: Manejo de cookies y uso de middlewares para la gestión de peticiones y respuestas.
++ Validación de formularios: Uso de herramientas como express-validator para asegurar la integridad de los datos.
+
+### Front-end:
+
++ HTML y CSS: Maquetación y estilización de interfaces de usuario, incluyendo diseño responsive.
++ React (básico): Desarrollo de interfaces interactivas y componentes reutilizables.
++ Control de Versiones:
+
+### Integraciones:
+
++ Git y GitHub: Uso de sistemas de control de versiones para la gestión de cambios y colaboración en proyectos.
+
 
 ## 📈 Estadísticas de GitHub
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=usuario&show_icons=true&theme=radical)
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=emiferreyra89&show_icons=true&theme=radical)
+
+
+### *Sigo en constante aprendizaje y mejora de mis habilidades, y compartiré mi progreso a través de estos proyectos. ¡Gracias por visitar mi perfil!*
