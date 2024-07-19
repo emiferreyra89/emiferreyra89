@@ -2,10 +2,10 @@
 
   Bienvenidos a mi perfil de GitHub...!!! Aquí encontrarán una colección de proyectos desarrollados principalmente durante mi formación, con un enfoque en tecnologías de back-end y front-end.
 
-- 🔭 Actualmente trabajando en [ProyectoX](https://github.com/emiferreyra89/Challenge-Encriptador)
+- 🔭 Actualmente trabajando en [Encriptador de Textos](https://github.com/emiferreyra89/Challenge-Encriptador)
 - 🌱 Aprendiendo Java y Analisis de Datos
 - 💬 Pregúntame sobre Node.js y JavaScript
-- 📫 Cómo contactarme: [email@example.com](ferreyra89@gmail.com)
+- 📫 Cómo contactarme: [E-mail](ferreyra89@gmail.com)
 
 
 ## 💻 Stack Tecnológico y Experiencia
