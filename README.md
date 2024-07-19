@@ -5,7 +5,7 @@
 - 🔭 Actualmente trabajando en [Encriptador de Textos](https://github.com/emiferreyra89/Challenge-Encriptador)
 - 🌱 Aprendiendo Java y Analisis de Datos
 - 💬 Pregúntame sobre Node.js y JavaScript
-- 📫 Cómo contactarme: [E-mail](gmail:ferreyra89@gmail.com)
+- 📫 Cómo contactarme: [ferreyra89@gmail.com](mailto:ferreyra89@gmail.com)
 
 
 ## 💻 Stack Tecnológico y Experiencia
