@@ -2,7 +2,7 @@
 
   Bienvenidos a mi perfil de GitHub...!!! Aquí encontrarán una colección de proyectos desarrollados principalmente durante mi formación, con un enfoque en tecnologías de back-end y front-end.
 
-- 🔭 Actualmente trabajando en [AluraGeek](https://github.com/emiferreyra89/Challenge-AluraGeek)
+- 🔭 Actualmente trabajando en [AluraFlix]https://github.com/emiferreyra89/Challenge-AluraFlix
 - 🌱 Aprendiendo Analisis de Datos, proximamente React
 - 💬 Pregúntame sobre Node.js y JavaScript
 - 📫 Cómo contactarme: [ferreyra89@gmail.com](mailto:ferreyra89@gmail.com)
